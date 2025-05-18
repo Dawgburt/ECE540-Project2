@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/pnevins/College/ECE-540/Project2/CatapultWS/proj2/build",
+  "command": "/opt/imgtec/catapult-sdk_1.9.1/build/../bin/riscv64-img-elf-gcc -g -march=rv32im -mabi=ilp32 -mcmodel=medany -o CMakeFiles/project2.dir/main.c.obj -c /home/pnevins/College/ECE-540/Project2/CatapultWS/proj2/main.c",
+  "file": "/home/pnevins/College/ECE-540/Project2/CatapultWS/proj2/main.c",
+  "output": "CMakeFiles/project2.dir/main.c.obj"
+}
+]
